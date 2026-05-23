@@ -1,0 +1,11 @@
+{
+  "id": "nodeB/serverB1",
+  "host": "127.0.0.1",
+  "port": 5001,
+  "peers": ["http://127.0.0.1:5002", "http://127.0.0.1:5003", "http://127.0.0.1:5004"],
+  "dataDir": "data/nodeB/serverB1",
+  "dnId": 1,
+  "rp_ip": "127.0.0.1",
+  "rp_port": 8000,
+  "test_client_ip": "127.0.0.1"
+}
